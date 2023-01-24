@@ -2,12 +2,12 @@
 
 ### Date created
 1/24/2023
-
+January 24, 2023
 ### Project Title
-Udacity Git Project
+Udacity Git Project for Udacity
 
 ### Description
-This project takes a gibhub repository and produces several steps.
+This project takes a github repository and produces several steps.
 
 ### Files used
 bikeshare.py
