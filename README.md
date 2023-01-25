@@ -3,10 +3,10 @@
 ### Date created
 1/24/2023
 ### Project Title
-Udacity Git Project to show changes to the remote suppository
+Udacity GIT Project
 
 ### Description
-This project takes a github repository and produces several steps.
+This project will create a remote reposity using the local machine
 
 ### Files used
 bikeshare.py
@@ -14,4 +14,4 @@ chicago.csv
 washington.csv
 new_york_city.csv
 ### Credits
-Giving credit to the Udacity Course
+Udacity
