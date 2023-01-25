@@ -2,9 +2,8 @@
 
 ### Date created
 1/24/2023
-January 24, 2023
 ### Project Title
-Udacity Git Project for Udacity
+Udacity Git Project to show changes to the remote suppository
 
 ### Description
 This project takes a github repository and produces several steps.
@@ -15,4 +14,4 @@ chicago.csv
 washington.csv
 new_york_city.csv
 ### Credits
-Udacity Course
+Giving credit to the Udacity Course
