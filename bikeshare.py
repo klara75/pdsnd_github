@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-# CITY DATA COMMENT
+# This python file will describe the bikeshare data of the following 3 cities: Washington, NYC, Chicago
 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
