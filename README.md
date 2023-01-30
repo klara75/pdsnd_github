@@ -16,3 +16,4 @@ washington.csv
 new_york_city.csv
 ### Credits
 Udacity Course
+My final thank you to Udacity for their feedback on my commits !
